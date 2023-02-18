@@ -1,0 +1,30 @@
+{
+  "name": "demo-react",
+  "version": "1.0.0",
+  "description": "Catamyst Bootcamp Demo React",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatchaBear/demo-react.git"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "eslint",
+    "typescript",
+    "tailwindcss"
+  ],
+  "author": "Bernhard Hustomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatchaBear/demo-react/issues"
+  },
+  "homepage": "https://github.com/MatchaBear/demo-react#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
