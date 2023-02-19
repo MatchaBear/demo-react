@@ -1,6 +1,3 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import "./App.css";
 import Button from "./button";
 import SectionOne from "./sectionone";
 
